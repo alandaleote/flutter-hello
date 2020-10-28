@@ -1,9 +1,7 @@
-import 'package:flutter/material.dart';
-
 class Greeting {
-  String text;
+  String salution;
 
   Greeting() {
-    text = 'Hello World';
+    salution = 'Hello World';
   }
 }

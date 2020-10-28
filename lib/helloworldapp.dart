@@ -15,7 +15,7 @@ class HelloWorldApp extends StatelessWidget {
         ),
 
         body: Center(
-          child:Text('Hello World'),
+          child:Text(Greeting().salution),
         ),
       ),
     );
